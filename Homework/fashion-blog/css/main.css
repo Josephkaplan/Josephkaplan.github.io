@@ -1,0 +1,211 @@
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+#abovenavbar {
+  overflow: hidden;
+  margin-top: 20px;
+}
+
+h3 {
+  color: red;
+  float: left;
+  font-size: 42px;
+  font-family: Lato, sans-serif;
+  font-weight: 300;
+  margin: 15px 0 0 0;
+}
+
+#headertext {
+  color: grey;
+  font-size: 18px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 10px 0;
+  padding: 0;
+  display: inline-block;
+  width: 100%;
+}
+
+nav li {
+  float: left;
+  display: inline-block;
+  background-color: black;
+  color: white;
+  padding: 15px 0;
+  font-family: lato;
+  width: 16.49%;
+  text-align: center;
+  margin-right: 2px;
+  overflow: hidden;
+  font-size: 18px;
+}
+
+nav li:last-child {
+  margin: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 15px 16.49%;
+}
+
+h2 {
+  font-family: lato;
+  font-weight: 300;
+  font-size: 30px;
+  color: lightgrey;
+}
+
+.main #posts {
+  width: 66.25%;
+  display: inline-block;
+  margin: 0 40px 20px 0;
+/*   float: left;
+  overflow: hidden; */
+  vertical-align: top;
+}
+
+.main .post {
+  margin-top: 50px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.main .post:first-of-type {
+  margin-top: 0;
+}
+
+h2 .header-text {
+  display: block;
+  color: black;
+  line-height: 48px;
+}
+
+#posts img {
+  width: 100%;
+}
+
+.main p {
+  font-family: lato;
+  font-weight: 300;
+  line-height: 22px;
+}
+
+#posts p:first-of-type:first-letter {
+  float: left;
+  font-size: 86px;
+  padding: 0 5px 0 0;
+  line-height: 54px;
+  color: lightgrey;
+  overflow: hidden;
+}
+
+.cta {
+  float: right;
+  overflow: hidden;
+  padding-top: 10px;
+}
+
+.main .cta a {
+  text-decoration: none;
+  color: red;
+  font-family: Lato, sans-serif;
+  font-weight: 700;
+  overflow: hidden;
+}
+
+.main #sidebar {
+  display: inline-block;
+  width: 29%;
+  margin-top: 25px;    
+}
+
+.main #sidebar #about-us {
+  color: grey;
+  font-family: lato, sans-serif;
+}
+
+.main #sidebar #about-us h4 {
+  font-weight: 700;
+}
+
+aside .ads {
+  margin: 70px 0 30px 0;
+  padding: 20px 0;
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+}
+
+.ads img {
+  width: 91%;
+  display: block;
+  margin: 0 auto;
+}
+
+.links h4 {
+  color: grey;
+  font-family: Lato, sans-serif;
+  weight: 700;
+}
+
+.links ul {
+  font-family: lato, sans-serif;
+  color: gray;
+  list-style: none;
+  padding: 0 0 0 25px;
+}
+
+.links ul li {
+  padding: 0 0 5px 0;
+}
+
+
+.links ul li a {
+  color: red;
+  text-decoration: none;
+  position: relative;
+}
+
+.links a:before {
+  content: "";
+  height: 6px;
+  width: 6px;
+  border-radius: 50%;
+  background: grey;
+  display: inline-block;
+  margin: 0 6px 0 0;
+  vertical-align: middle;
+  
+}
+
+.links a:first-line {
+  margin-left: 0.75ex;
+}
+
+footer ul {
+  padding: 0;
+  list-style: none;
+}
+
+footer ul li {
+  display: inline-block;
+/*   padding: 0 4px; */
+  color: gray;
+  font-family: Lato, sans-serif;
+  font-weight: 300;
+}
+
+footer ul li a{
+  text-decoration: none;
+  font-family: Lato, sans-serif; 
+  color: red;
+}
+
+/* footer ul li:first-of-type {
+  padding-left: px;
+} */
