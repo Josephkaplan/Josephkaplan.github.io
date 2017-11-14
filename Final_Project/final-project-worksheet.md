@@ -10,8 +10,8 @@ The about page will be it's on section, the amount of columns will expand with t
 
 | Site Url        | Desired Features           | 
 | ------------- |-------------| 
-| [GeneralAssembly](https://generalassemb.ly/)| - layout of the start learning section <br> - layout of the choose your path section | 
-|  |   |  
+| [Project Projects](http://www.projectprojects.com/)| - Sticky Nav <br> - layout of project thumbnails | 
+| [Wade Jeffree](http://www.wadejeffree.com/)| - Info Page Popup <br> - Information in top left corner |  
 |  |   |   
 
 ## Wireframes
