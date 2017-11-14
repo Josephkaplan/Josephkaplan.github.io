@@ -18,7 +18,7 @@ The about page will be it's on section, the amount of columns will expand with t
 
 Include wireframes for all pages included in the site including:
 
-https://www.dropbox.com/s/uixv854xtlug2br/General_Assembly_Website.pdf?dl=0
+| [Link to Mobile, Desktop, Tablet](https://www.dropbox.com/s/uixv854xtlug2br/General_Assembly_Website.pdf?dl=0)|
 
 ### Landing Page
 
